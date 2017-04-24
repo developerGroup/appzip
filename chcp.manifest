@@ -100,8 +100,16 @@
     "hash": "0350f4b3a2067110b1e642ee5931a38a"
   },
   {
+    "file": "build/main.css",
+    "hash": "c2a605d2288f14a7313ae1451c103af0"
+  },
+  {
+    "file": "build/main.css.map",
+    "hash": "37a6259cc0c1dae299a7866489dff0bd"
+  },
+  {
     "file": "build/main.js",
-    "hash": "91ae788444b37aa4f5b770ffa3cd0cf7"
+    "hash": "600fc5dbfc72fc2aa6a5b27a68ff9779"
   },
   {
     "file": "build/main.js.map",
@@ -125,6 +133,6 @@
   },
   {
     "file": "service-worker.js",
-    "hash": "ea7d3ae06d88a849ac03dba0f4c0442a"
+    "hash": "256402de755541f3695f66eb04a2f085"
   }
 ]
