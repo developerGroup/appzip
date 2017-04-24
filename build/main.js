@@ -57173,7 +57173,7 @@ var HomePage = (function () {
 }());
 HomePage = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["K" /* Component */])({
-        selector: 'page-home',template:/*ion-inline-start:"/Users/richard.g/Documents/workspaces/myApp/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <h1>i just test</h1>\n  <h1>i just test</h1>\n  <h1>i just test</h1>\n  <h1>i just test</h1>\n  <h1>i just test</h1>\n  <h1>i just test</h1>\n\n</ion-content>\n'/*ion-inline-end:"/Users/richard.g/Documents/workspaces/myApp/src/pages/home/home.html"*/
+        selector: 'page-home',template:/*ion-inline-start:"/Users/richard.g/Documents/workspaces/myApp/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <h1>richard gong test</h1>\n  <h1>richard gong test</h1>\n  <h1>richard gong test</h1>\n  <h1>richard gong test</h1>\n  <h1>richard gong test</h1>\n  <h1>richard gong test</h1>\nkldsjfkldsfklslfsd\n</ion-content>\n'/*ion-inline-end:"/Users/richard.g/Documents/workspaces/myApp/src/pages/home/home.html"*/
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */]])
 ], HomePage);

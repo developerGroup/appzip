@@ -109,11 +109,11 @@
   },
   {
     "file": "build/main.js",
-    "hash": "600fc5dbfc72fc2aa6a5b27a68ff9779"
+    "hash": "24b0f6533bc3a992079a24898096db0b"
   },
   {
     "file": "build/main.js.map",
-    "hash": "fce29932213dd5350ec88850e931a755"
+    "hash": "110d28fdb86ae6efeed44391781140d0"
   },
   {
     "file": "build/polyfills.js",
@@ -122,6 +122,10 @@
   {
     "file": "build/sw-toolbox.js",
     "hash": "e7e54a466864d42dcccc8c3f80a91d1f"
+  },
+  {
+    "file": "chcpbackup.json",
+    "hash": "4b56bbfbaf0782aeb9ecee92bf6c2b05"
   },
   {
     "file": "index.html",
